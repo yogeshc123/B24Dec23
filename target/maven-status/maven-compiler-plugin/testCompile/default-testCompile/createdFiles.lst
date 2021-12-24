@@ -1,4 +1,8 @@
 generic\BaseTest.class
+pages\ETTPage.class
+scripts\InvalidLogin.class
 generic\Excel.class
+pages\LoginPage.class
+generic\Property.class
 scripts\Demo.class
 generic\IAutoConst.class
